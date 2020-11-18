@@ -1,5 +1,5 @@
 //
-//  ContentView.swift
+//  LandmarkDetail.swift
 //  SwiftUIExample
 //
 //  Created by haoshuai on 2020/11/18.
@@ -7,9 +7,8 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct LandmarkDetail: View {
     var body: some View {
-        
         VStack {
             MapView()
                 .frame(height:300)
@@ -17,6 +16,7 @@ struct ContentView: View {
             CircleImage()
                 .offset(y: -130)
                 .padding(.bottom, -130)
+            
             VStack(alignment: .leading) {
                 Text("Turtle Rock")
                     .font(.title)
@@ -30,15 +30,14 @@ struct ContentView: View {
                 }
             }
             .padding()
+            
+            Spacer()
         }
-        
-        
     }
-    
 }
 
-struct ContentView_Previews: PreviewProvider {
+struct LandmarkDetail_Previews: PreviewProvider {
     static var previews: some View {
-        ContentView()
+        LandmarkDetail()
     }
 }
