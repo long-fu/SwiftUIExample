@@ -31,6 +31,7 @@
 		2E032C7E25657E0F00E2A2CB /* yukon_charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E032C7225657E0F00E2A2CB /* yukon_charleyrivers.jpg */; };
 		2E032C7F25657E0F00E2A2CB /* chilkoottrail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E032C7325657E0F00E2A2CB /* chilkoottrail.jpg */; };
 		2E032C8425657E4700E2A2CB /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E032C8325657E4700E2A2CB /* LandmarkRow.swift */; };
+		2E032C8C25657FF900E2A2CB /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E032C8B25657FF900E2A2CB /* LandmarkList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,6 +82,7 @@
 		2E032C7225657E0F00E2A2CB /* yukon_charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = yukon_charleyrivers.jpg; sourceTree = "<group>"; };
 		2E032C7325657E0F00E2A2CB /* chilkoottrail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chilkoottrail.jpg; sourceTree = "<group>"; };
 		2E032C8325657E4700E2A2CB /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
+		2E032C8B25657FF900E2A2CB /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -142,6 +144,7 @@
 				2E032C3E2565748C00E2A2CB /* MapView.swift */,
 				2E032C8325657E4700E2A2CB /* LandmarkRow.swift */,
 				2E032C4325657A0900E2A2CB /* LandmarkDetail.swift */,
+				2E032C8B25657FF900E2A2CB /* LandmarkList.swift */,
 			);
 			path = SwiftUIExample;
 			sourceTree = "<group>";
@@ -345,6 +348,7 @@
 				2E032C0B256570B700E2A2CB /* ContentView.swift in Sources */,
 				2E032C3F2565748C00E2A2CB /* MapView.swift in Sources */,
 				2E032C09256570B700E2A2CB /* SwiftUIExampleApp.swift in Sources */,
+				2E032C8C25657FF900E2A2CB /* LandmarkList.swift in Sources */,
 				2E032C4425657A0900E2A2CB /* LandmarkDetail.swift in Sources */,
 				2E032C372565723500E2A2CB /* CircleImage.swift in Sources */,
 				2E032C8425657E4700E2A2CB /* LandmarkRow.swift in Sources */,
