@@ -24,15 +24,18 @@ struct Landmark: Hashable, Codable,Identifiable {
     var park: String
     var category: Category
     var isFavorite: Bool
+
     var locationCoordinate: CLLocationCoordinate2D {
-        CLLocationCoordinate2D(latitude: coordinates.latitude,
-                               longitude: coordinates.longitude)
+        CLLocationCoordinate2D(
+            latitude: coordinates.latitude,
+            longitude: coordinates.longitude)
     }
-    
-    enum Category: String,CaseIterable,Codable, Hashable {
+
+    enum Category: String, CaseIterable, Codable, Hashable {
         case featured = "Featured"
         case lakes = "Lakes"
         case rivers = "Rivers"
+        case mountains = "Mountains"
     }
 }
 
