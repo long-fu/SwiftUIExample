@@ -33,6 +33,7 @@
 		2E032C8425657E4700E2A2CB /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E032C8325657E4700E2A2CB /* LandmarkRow.swift */; };
 		2E032C8C25657FF900E2A2CB /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E032C8B25657FF900E2A2CB /* LandmarkList.swift */; };
 		2E99BBF025669F5900670D6F /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E99BBEF25669F5900670D6F /* charleyrivers.jpg */; };
+		2E99BBF52566A2A200670D6F /* UserData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E99BBF42566A2A200670D6F /* UserData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -85,6 +86,7 @@
 		2E032C8325657E4700E2A2CB /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		2E032C8B25657FF900E2A2CB /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
 		2E99BBEF25669F5900670D6F /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
+		2E99BBF42566A2A200670D6F /* UserData.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = UserData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -181,6 +183,7 @@
 			isa = PBXGroup;
 			children = (
 				2E032C5B25657B7700E2A2CB /* Landmark.swift */,
+				2E99BBF42566A2A200670D6F /* UserData.swift */,
 			);
 			name = Models;
 			sourceTree = "<group>";
@@ -352,6 +355,7 @@
 				2E032C0B256570B700E2A2CB /* ContentView.swift in Sources */,
 				2E032C3F2565748C00E2A2CB /* MapView.swift in Sources */,
 				2E032C09256570B700E2A2CB /* SwiftUIExampleApp.swift in Sources */,
+				2E99BBF52566A2A200670D6F /* UserData.swift in Sources */,
 				2E032C8C25657FF900E2A2CB /* LandmarkList.swift in Sources */,
 				2E032C4425657A0900E2A2CB /* LandmarkDetail.swift in Sources */,
 				2E032C372565723500E2A2CB /* CircleImage.swift in Sources */,
