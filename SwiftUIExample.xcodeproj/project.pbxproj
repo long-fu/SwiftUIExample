@@ -178,6 +178,15 @@
 		2E032C5425657B4600E2A2CB /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				2E032C5B25657B7700E2A2CB /* Landmark.swift */,
+			);
+			name = Models;
+			sourceTree = "<group>";
+		};
+		2E032C6125657E0000E2A2CB /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				2E032C4825657B1F00E2A2CB /* landmarkData.json */,
 				2E032C7325657E0F00E2A2CB /* chilkoottrail.jpg */,
 				2E032C6B25657E0E00E2A2CB /* chincoteague.jpg */,
 				2E032C6F25657E0F00E2A2CB /* hiddenlake.jpg */,
@@ -190,15 +199,6 @@
 				2E032C7025657E0F00E2A2CB /* twinlake.jpg */,
 				2E032C7125657E0F00E2A2CB /* umbagog.jpg */,
 				2E032C7225657E0F00E2A2CB /* yukon_charleyrivers.jpg */,
-				2E032C5B25657B7700E2A2CB /* Landmark.swift */,
-			);
-			name = Models;
-			sourceTree = "<group>";
-		};
-		2E032C6125657E0000E2A2CB /* Resources */ = {
-			isa = PBXGroup;
-			children = (
-				2E032C4825657B1F00E2A2CB /* landmarkData.json */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
