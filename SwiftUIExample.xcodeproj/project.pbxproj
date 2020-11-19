@@ -32,6 +32,7 @@
 		2E032C7F25657E0F00E2A2CB /* chilkoottrail.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E032C7325657E0F00E2A2CB /* chilkoottrail.jpg */; };
 		2E032C8425657E4700E2A2CB /* LandmarkRow.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E032C8325657E4700E2A2CB /* LandmarkRow.swift */; };
 		2E032C8C25657FF900E2A2CB /* LandmarkList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2E032C8B25657FF900E2A2CB /* LandmarkList.swift */; };
+		2E99BBF025669F5900670D6F /* charleyrivers.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2E99BBEF25669F5900670D6F /* charleyrivers.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -83,6 +84,7 @@
 		2E032C7325657E0F00E2A2CB /* chilkoottrail.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = chilkoottrail.jpg; sourceTree = "<group>"; };
 		2E032C8325657E4700E2A2CB /* LandmarkRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkRow.swift; sourceTree = "<group>"; };
 		2E032C8B25657FF900E2A2CB /* LandmarkList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarkList.swift; sourceTree = "<group>"; };
+		2E99BBEF25669F5900670D6F /* charleyrivers.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = charleyrivers.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +194,7 @@
 				2E032C6F25657E0F00E2A2CB /* hiddenlake.jpg */,
 				2E032C6A25657E0E00E2A2CB /* icybay.jpg */,
 				2E032C6E25657E0E00E2A2CB /* lakemcdonald.jpg */,
+				2E99BBEF25669F5900670D6F /* charleyrivers.jpg */,
 				2E032C6825657E0E00E2A2CB /* rainbowlake.jpg */,
 				2E032C6925657E0E00E2A2CB /* silversalmoncreek.jpg */,
 				2E032C6C25657E0E00E2A2CB /* stmarylake.jpg */,
@@ -309,6 +312,7 @@
 				2E032C7E25657E0F00E2A2CB /* yukon_charleyrivers.jpg in Resources */,
 				2E032C7525657E0F00E2A2CB /* silversalmoncreek.jpg in Resources */,
 				2E032C10256570B900E2A2CB /* Preview Assets.xcassets in Resources */,
+				2E99BBF025669F5900670D6F /* charleyrivers.jpg in Resources */,
 				2E032C7D25657E0F00E2A2CB /* umbagog.jpg in Resources */,
 				2E032C7925657E0F00E2A2CB /* turtlerock.jpg in Resources */,
 				2E032C7825657E0F00E2A2CB /* stmarylake.jpg in Resources */,
